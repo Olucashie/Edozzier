@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*===================Header=====================*/
+header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index:1;
+}
+
+ ul li a{
+    color: #4E4B6E;
+}
+#hero{
+    background-image:linear-gradient(to right, #EEF1FF,#EEF1FF,#EEF1FF,#EEF1FF, #fbffff);
+    height: 100vh;
+}
+
+/* ===================MAIN=================== */
+.cardd:hover {
+ cursor: pointer;
+background-color:#0E0A47;
+color: #fff;
+}
+.cardd:hover {
+    cursor: pointer;
+    color:#0E0A47 ;
+background-color: #fff
+}
+  
+#solution{
+    background-color: #E5EAFA;
+    margin-top: 50px;
+    font-size: 35px;
+}
+
